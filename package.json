@@ -1,0 +1,11 @@
+{
+  "name": "nw-demo",
+  "main": "index.html",
+  "window": {
+    "transparent": true,
+    "toolbar": false,   
+    "frame": false,     
+    "resizable": false, 
+    "always-on-top": true
+  }
+}
